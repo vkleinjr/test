@@ -1,2 +1,1 @@
-# test
-Teste de como usar o GIT
+Teste de utilização do GIT
